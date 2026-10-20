@@ -5,4 +5,4 @@ l3=[]
 for element in l1:
     if element in l2 and element not in l3:
         l3.append(element)
-print(l3)
+print(l3) 
